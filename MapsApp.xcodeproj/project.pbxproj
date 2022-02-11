@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		330FFDB927B6613200F943EA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDB827B6613200F943EA /* README.md */; };
+		330FFDC827B6622400F943EA /* screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDC627B6622300F943EA /* screenshot4.png */; };
+		330FFDC927B6622400F943EA /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 330FFDC727B6622300F943EA /* screenshot3.png */; };
 		339C91512770B483005C70E8 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339C91502770B483005C70E8 /* ListViewController.swift */; };
 		33AA094D27708D7600673AA5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AA094C27708D7600673AA5 /* AppDelegate.swift */; };
 		33AA094F27708D7600673AA5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AA094E27708D7600673AA5 /* SceneDelegate.swift */; };
@@ -22,8 +24,10 @@
 		330FFDB827B6613200F943EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		330FFDBE27B6614A00F943EA /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
 		330FFDC327B6617500F943EA /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
-		330FFDC427B6617500F943EA /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot4.png; sourceTree = "<group>"; };
-		330FFDC527B6617500F943EA /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
+		330FFDC627B6622300F943EA /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot4.png; path = ../../../Desktop/screenshot4.png; sourceTree = "<group>"; };
+		330FFDC727B6622300F943EA /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot3.png; path = ../../../Desktop/screenshot3.png; sourceTree = "<group>"; };
+		330FFDCA27B662A500F943EA /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
+		330FFDCB27B662A500F943EA /* screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot4.png; sourceTree = "<group>"; };
 		339C91502770B483005C70E8 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		33AA094927708D7600673AA5 /* MapsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33AA094C27708D7600673AA5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -53,8 +57,8 @@
 				330FFDB827B6613200F943EA /* README.md */,
 				330FFDBE27B6614A00F943EA /* screenshot1.png */,
 				330FFDC327B6617500F943EA /* screenshot2.png */,
-				330FFDC527B6617500F943EA /* screenshot3.png */,
-				330FFDC427B6617500F943EA /* screenshot4.png */,
+				330FFDC727B6622300F943EA /* screenshot3.png */,
+				330FFDC627B6622300F943EA /* screenshot4.png */,
 				33AA094B27708D7600673AA5 /* MapsApp */,
 				33AA094A27708D7600673AA5 /* Products */,
 			);
@@ -80,6 +84,8 @@
 				33AA095A27708D7700673AA5 /* LaunchScreen.storyboard */,
 				33AA095D27708D7700673AA5 /* Info.plist */,
 				33AA095527708D7600673AA5 /* MapsApp.xcdatamodeld */,
+				330FFDCA27B662A500F943EA /* screenshot3.png */,
+				330FFDCB27B662A500F943EA /* screenshot4.png */,
 			);
 			path = MapsApp;
 			sourceTree = "<group>";
@@ -145,6 +151,8 @@
 				33AA095C27708D7700673AA5 /* LaunchScreen.storyboard in Resources */,
 				33AA095927708D7700673AA5 /* Assets.xcassets in Resources */,
 				330FFDB927B6613200F943EA /* README.md in Resources */,
+				330FFDC827B6622400F943EA /* screenshot4.png in Resources */,
+				330FFDC927B6622400F943EA /* screenshot3.png in Resources */,
 				33AA095427708D7600673AA5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
